@@ -1,11 +1,9 @@
 {
   "name": "react-native-style-in-css",
   "version": "1.0.0",
-  "description": "",
+  "description": "react-native",
+  "homepage": "https://github.com/Anshiii/react-native-style-in-css",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "anshiii",
   "license": "ISC"
 }
