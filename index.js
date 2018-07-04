@@ -81,7 +81,7 @@ function parseOneCssObj(css) {
   return style;
 }
 
-export default reactNativeStyleInCss = function(styles) {
+export default (reactNativeStyleInCss = function(styles) {
   let rawStyles = {};
   Object.keys(styles).forEach(item => {
     rawStyles[item] = parseOneCssObj(styles[item]);
